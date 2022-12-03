@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Alex!
+- 👀 I’m interested in machine learning
+- 🌱 I’m currently learning convolutional neural networks
+- 💞️ I’m looking to collaborate on neural net projects
+- 📫 Reach out to me on Twitter @alexgabbour
