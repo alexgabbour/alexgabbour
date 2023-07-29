@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex!
-- 👀 I’m interested in front-end/web development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on website projects
-- 📫 Reach out to me on Twitter @alexgabbour
+- 👀 I’m interested in cybersecurity, IT, and networking.
+- 🌱 I’m currently studying for the CCNA exam
+- 💞️ I’m looking to collaborate on open-source projects
+- 📫 Reach out to me on Twitter @linuxpartition_
