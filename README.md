@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Alex!
 - 👀 I’m interested in cybersecurity & networking
-- 🌱 I’m currently studying for the CCNA exam
-- 💞️ I’m looking to collaborate on open-source projects
 - 📫 Reach out to me on Twitter @linuxpartition_
