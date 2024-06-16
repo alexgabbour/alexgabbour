@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Alex!
-- 👀 I’m interested in cybersecurity & networking
-- 📫 Reach out to me on Twitter @linuxpartition_
+- 👀 I’m interested in ones and zeroes
+- 📫 Reach out to me on Twitter @alexgabbz
