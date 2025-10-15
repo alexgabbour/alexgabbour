@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Alex!
 - 👀 I’m interested in ones and zeroes
-- 📫 Reach out to me on Mastodon @alexgabbz@infosec.exchange
+- 📫 Reach out to me on Mastodon!
